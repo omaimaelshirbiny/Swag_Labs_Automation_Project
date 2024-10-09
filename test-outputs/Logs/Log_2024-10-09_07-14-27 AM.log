@@ -1,0 +1,2 @@
+[INFO] 09-10-2024 07:14:28 [main] [Listeners.ITestLestenerClass.onTestStart(ITestLestenerClass.java:10)] - Testcase null started
+[INFO] 09-10-2024 07:14:29 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:23)] - Testcase null failed

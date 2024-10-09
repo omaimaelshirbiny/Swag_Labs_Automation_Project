@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e9e7fd9-4d5f-4f93-8f7e-bf7f740ed3bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mq0DAO7WHAjYMjsc1MWXqIRicO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG./home/osama/IdeaProjects/SwagLabsAutomationProject/TestRunner/LandingSuite.xml.executor": "Run",
+    "TestNG./home/osama/IdeaProjects/SwagLabsAutomationProject/TestRunner/LoginSuite.xml.executor": "Run",
+    "TestNG./home/osama/IdeaProjects/SwagLabsAutomationProject/TestRunner/Regression.xml.executor": "Run",
+    "TestNG./home/osama/IdeaProjects/SwagLabsAutomationProject/TestRunner/RegressionSuite.xml.executor": "Run",
+    "TestNG./home/osama/IdeaProjects/SwagLabsAutomationProject/TestRunner/TestRunner.xml.executor": "Run",
+    "TestNG.TC01_LOGIN.executor": "Run",
+    "TestNG.TC01_LOGIN.validLoginTC.executor": "Run",
+    "TestNG.TC01_LoginTest.executor": "Run",
+    "TestNG.TC01_LoginTest.validLoginTC.executor": "Run",
+    "TestNG.TC02_LandingTest.addingAllItemsToCartTC.executor": "Run",
+    "TestNG.TC02_LandingTest.clickOnCartIcon.executor": "Run",
+    "TestNG.TC02_LandingTest.executor": "Run",
+    "TestNG.TC03_CartTest.comparingPricesTC.executor": "Run",
+    "TestNG.TC04_CheckoutTest.checkoutStep1.executor": "Run",
+    "TestNG.TC04_CheckoutTest.checkoutStepOne.executor": "Run",
+    "TestNG.TC05_OverviewTC.checkoutStepTwoTC.executor": "Run",
+    "TestNG.TC06_FinalTest.checkoutStepTwoTC.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/osama/IdeaProjects/seleniumCourse",
+    "onboarding.tips.debug.path": "/home/osama/IdeaProjects/SwagLabsAutomationProject/src/main/java/org/example/Main.java",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TestRunner" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./home/osama/IdeaProjects/SwagLabsAutomationProject/TestRunner/LoginSuite.xml">
+    <configuration name="/home/osama/IdeaProjects/SwagLabsAutomationProject/TestRunner/LandingSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SwagLabsAutomationProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestRunner/LandingSuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/osama/IdeaProjects/SwagLabsAutomationProject/TestRunner/LoginSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SwagLabsAutomationProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestRunner/LoginSuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/osama/IdeaProjects/SwagLabsAutomationProject/TestRunner/RegressionSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SwagLabsAutomationProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestRunner/RegressionSuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/osama/IdeaProjects/SwagLabsAutomationProject/TestRunner/Regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SwagLabsAutomationProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestRunner/Regression.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/osama/IdeaProjects/SwagLabsAutomationProject/TestRunner/TestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SwagLabsAutomationProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestRunner/TestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./home/osama/IdeaProjects/SwagLabsAutomationProject/TestRunner/LoginSuite.xml" />
+        <item itemvalue="TestNG./home/osama/IdeaProjects/SwagLabsAutomationProject/TestRunner/Regression.xml" />
+        <item itemvalue="TestNG./home/osama/IdeaProjects/SwagLabsAutomationProject/TestRunner/TestRunner.xml" />
+        <item itemvalue="TestNG./home/osama/IdeaProjects/SwagLabsAutomationProject/TestRunner/RegressionSuite.xml" />
+        <item itemvalue="TestNG./home/osama/IdeaProjects/SwagLabsAutomationProject/TestRunner/LandingSuite.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e9e7fd9-4d5f-4f93-8f7e-bf7f740ed3bf" name="Changes" comment="" />
+      <created>1727788680418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727788680418</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+[INFO] 09-10-2024 09:22:32 [main] [Listeners.ITestLestenerClass.onTestStart(ITestLestenerClass.java:10)] - Testcase null started
+[INFO] 09-10-2024 09:22:32 [main] [Listeners.ITestLestenerClass.onTestSuccess(ITestLestenerClass.java:14)] - Testcase null passed
+[INFO] 09-10-2024 09:22:34 [main] [Listeners.ITestLestenerClass.onTestStart(ITestLestenerClass.java:10)] - Testcase null started
+[INFO] 09-10-2024 09:22:35 [main] [Listeners.ITestLestenerClass.onTestSuccess(ITestLestenerClass.java:14)] - Testcase null passed
+[INFO] 09-10-2024 09:22:37 [main] [Listeners.ITestLestenerClass.onTestStart(ITestLestenerClass.java:10)] - Testcase null started
+[INFO] 09-10-2024 09:22:38 [main] [Listeners.ITestLestenerClass.onTestSuccess(ITestLestenerClass.java:14)] - Testcase null passed
+[INFO] 09-10-2024 09:22:39 [main] [Listeners.ITestLestenerClass.onTestStart(ITestLestenerClass.java:10)] - Testcase null started
+[INFO] 09-10-2024 09:22:40 [main] [pages.P02_LandingPage.getselectedProductPrices(P02_LandingPage.java:68)] - Total Price 129.94
+[INFO] 09-10-2024 09:22:41 [main] [pages.P03_CartPage.getTotalPrice(P03_CartPage.java:46)] - Total Price 129.94
+[INFO] 09-10-2024 09:22:41 [main] [Listeners.ITestLestenerClass.onTestSuccess(ITestLestenerClass.java:14)] - Testcase null passed
+[INFO] 09-10-2024 09:22:43 [main] [Listeners.ITestLestenerClass.onTestStart(ITestLestenerClass.java:10)] - Testcase null started
+[INFO] 09-10-2024 09:22:44 [main] [Tests.TC04_CheckoutTest.checkoutStepOneTC(TC04_CheckoutTest.java:53)] - omaima - 2024-10-283AM osama - 2024-10-283AM 79049
+[INFO] 09-10-2024 09:22:44 [main] [Listeners.ITestLestenerClass.onTestSuccess(ITestLestenerClass.java:14)] - Testcase null passed
+[INFO] 09-10-2024 09:22:46 [main] [Listeners.ITestLestenerClass.onTestStart(ITestLestenerClass.java:10)] - Testcase null started
+[INFO] 09-10-2024 09:22:47 [main] [Tests.TC05_OverviewTC.checkoutStepTwoTC(TC05_OverviewTC.java:55)] - omaima - 2024-10-283AM osama - 2024-10-283AM 60865
+[INFO] 09-10-2024 09:22:47 [main] [pages.P05_OverviewPage.calcTotal(P05_OverviewPage.java:36)] - Total Price calculated : 140.34
+[INFO] 09-10-2024 09:22:47 [main] [pages.P05_OverviewPage.getTotal(P05_OverviewPage.java:31)] - Total Price exists : 140.34
+[INFO] 09-10-2024 09:22:47 [main] [Listeners.ITestLestenerClass.onTestSuccess(ITestLestenerClass.java:14)] - Testcase null passed
+[INFO] 09-10-2024 09:22:49 [main] [Listeners.ITestLestenerClass.onTestStart(ITestLestenerClass.java:10)] - Testcase null started
+[INFO] 09-10-2024 09:22:50 [main] [Tests.TC06_FinalTest.finishOrderTC(TC06_FinalTest.java:56)] - omaima - 2024-10-283AM osama - 2024-10-283AM 98448
+[INFO] 09-10-2024 09:22:50 [main] [Listeners.ITestLestenerClass.onTestSuccess(ITestLestenerClass.java:14)] - Testcase null passed

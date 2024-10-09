@@ -1,0 +1,4 @@
+[INFO] 08-10-2024 20:11:37 [main] [Listeners.ITestLestenerClass.onTestStart(ITestLestenerClass.java:10)] - Testcase null started
+[INFO] 08-10-2024 20:11:39 [main] [pages.P02_LandingPage.getselectedProductPrices(P02_LandingPage.java:68)] - Total Price 129.94
+[INFO] 08-10-2024 20:11:39 [main] [pages.P03_CartPage.getTotalPrice(P03_CartPage.java:46)] - Total Price 129.94
+[INFO] 08-10-2024 20:11:39 [main] [Listeners.ITestLestenerClass.onTestSuccess(ITestLestenerClass.java:14)] - Testcase null passed

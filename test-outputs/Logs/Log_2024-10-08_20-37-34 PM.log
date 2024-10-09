@@ -1,0 +1,3 @@
+[INFO] 08-10-2024 20:37:34 [main] [Listeners.ITestLestenerClass.onTestStart(ITestLestenerClass.java:10)] - Testcase null started
+[INFO] 08-10-2024 20:37:36 [main] [Tests.TC04_CheckoutTest.checkoutStepOne(TC04_CheckoutTest.java:53)] - omaima - 2024-10-282PM osama - 2024-10-282PM 12697
+[INFO] 08-10-2024 20:37:36 [main] [Listeners.ITestLestenerClass.onTestSuccess(ITestLestenerClass.java:14)] - Testcase null passed

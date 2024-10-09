@@ -1,0 +1,2 @@
+[INFO] 09-10-2024 17:00:41 [main] [Listeners.ITestLestenerClass.onTestStart(ITestLestenerClass.java:10)] - Testcase null started
+[INFO] 09-10-2024 17:00:42 [main] [Listeners.ITestLestenerClass.onTestSuccess(ITestLestenerClass.java:14)] - Testcase null passed
