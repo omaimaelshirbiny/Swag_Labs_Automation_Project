@@ -29,6 +29,7 @@ Designed 6 pages of the website and but any element and expected actions in it w
 - P04_CheckoutPage
 - P05_OverviewPage
 - P06_FinishPage
+
 Designed 6 Test pages to include test cases for each page in it according to POM design pattern with anonymous object and fluent design pattern approach which are:
 - TC01_LoginTest
 - TC02_LandingTest
@@ -36,10 +37,12 @@ Designed 6 Test pages to include test cases for each page in it according to POM
 - TC04_CheckoutTest
 - TC05_OverviewTC
 - TC06_FinalTest
+
 Used Listeners to tracke events that occur during the execution of a test script like:
 - IInvokedMethodListenerClass
 - ITestLestenerClass
-Used Logs (Log4j2) to extract information about how the execution took place. 
-Used Json and properities files to create a data driven framework and not use a static data.
+
+Used Logs (Log4j2) to extract information about how the execution took place.  
+Used Json and properities files to create a data driven framework and not use a static data.  
 Used Allure report to provide a comprehensive analysis of test execution, including test steps, start time, duration, and status.
 
